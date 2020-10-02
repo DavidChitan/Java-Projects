@@ -1,4 +1,4 @@
-import java.util.Scanner; //adaugat de intelij
+import java.util.Scanner; 
 
 public class Main {
 
